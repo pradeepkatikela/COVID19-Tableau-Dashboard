@@ -31,7 +31,7 @@ This project presents an interactive Tableau dashboard analyzing global COVID-19
 
 ### Trend Analysis
 
-![Trend](Dashboard_Images/Recovery_Rate.png)
+![Trend](Dashboard_Images/Recovery_KPI.png)
 
 ## Author
 
