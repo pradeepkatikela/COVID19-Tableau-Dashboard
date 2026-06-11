@@ -23,15 +23,15 @@ This project presents an interactive Tableau dashboard analyzing global COVID-19
 
 ### Dashboard Overview
 
-![Dashboard](Dashboard_Screenshots/dashboard_overview.png)
+![Dashboard](Dashboard_Images/Dashboard.png)
 
 ### World Map
 
-![Map](Dashboard_Screenshots/world_map.png)
+![Map](Dashboard_Images/Maps.png)
 
 ### Trend Analysis
 
-![Trend](Dashboard_Screenshots/trend_analysis.png)
+![Trend](Dashboard_Images/Recovery_Rate.png)
 
 ## Author
 
